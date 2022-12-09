@@ -1,3 +1,5 @@
+
+
 *{
     box-sizing: border-box;
     
@@ -26,3 +28,8 @@ img{
   .fa-brands:hover{
     color: blueviolet;
   }
+  #textboxid
+{
+    height:200px;
+    font-size:14pt;
+}
