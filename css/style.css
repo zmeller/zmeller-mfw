@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+.logo{
+    width: 100px;
+    margin-top: 10px;
+    margin: auto;
+}
+.hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/1.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .fa-brands{
+    color: blue;
+  }
+  .fa-brands:hover{
+    color: blueviolet;
+  }
